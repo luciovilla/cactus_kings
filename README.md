@@ -1,26 +1,22 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# [No Lawyer, No Voice](http://bit.ly/cactuskings)
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+Source code for the winning project for Best Data Visualization. "No Lawyer, No Voice" was project created during the Arizona Migrahack 2015 at University of Arizona in Tucson, March 20-22.
 
-## Getting Started
+## About
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+Unaccompanied child migrants have survived a long and difficult trip to reach the U.S. border. Their next journey, through the court system, is often just as arduous.
 
-## Bugs and Issues
+The “No Lawyer, No Voice” project examined data on court proceedings for unaccompanied minors whose cases were filed in Arizona from October 2004 to February 2015. The data was collected from the Transactional Records Access Clearinghouse at Syracuse University and prepared especially for Arizona Migrahack.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+Team members found that children without lawyers were twice as likely to be deported. They were also likely to be transferred to another court or another state; some were transferred up to 10 times. The story of these statistics was told through an animated video, map, charts and an interactive graphic.
 
-## Creator
+Judges were impressed by the breadth and depth of the project. They cited in particular the interactive graphic, which allows users to explore the data.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+## Team
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+* Kate Gunby, Sociologist @kategunby
+* Lucio Villa, News Applications Developer @luciovilla
+* Astrid Galván, Journalist @astridgalvan
+* Brian White, Journalist @_BrianWhite
+* Jeannine Relly, Researcher and Assistant Professor at University of Arizona School of Journalism @JeannineRelly
+* Susan E. Swanberg, Journalist @seswanberg
