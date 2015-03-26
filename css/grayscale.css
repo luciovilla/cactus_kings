@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: #1f77b4;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #1d9b6c;
+    color: #1f77b4;
 }
 
 .light {
@@ -342,6 +342,7 @@ ul.banner-social-buttons {
 
 footer {
     padding: 50px 0;
+    background: rgb(218, 218, 218);
 }
 
 footer p {
